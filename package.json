@@ -1,0 +1,24 @@
+{
+  "name": "github_newsite",
+  "version": "1.0.0",
+  "description": "this is new github site",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiebaochun/newsite.git"
+  },
+  "keywords": [
+    "newsite"
+  ],
+  "author": "xiebaochun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiebaochun/newsite/issues"
+  },
+  "homepage": "https://github.com/xiebaochun/newsite#readme"
+}
